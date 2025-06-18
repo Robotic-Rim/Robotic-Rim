@@ -1,4 +1,12 @@
 ## Hi there 👋
+Hi anyone who reads this! My name is Ivan and this is my GitHub. I created it to keep my progress in the exciting world of statistics, machine-learning and AI.
+
+My current goal is to create and work on several project to 'show off' my skills. Though I am at the beginning of my journey but as someone once said: "A journey of 1000 kilometers (yes! I use metric system) starts with just one step!"
+
+I will update this README as I progress further in my journey.
+
+Have a nice day,
+Ivan
 
 <!--
 **Robotic-Rim/Robotic-Rim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
